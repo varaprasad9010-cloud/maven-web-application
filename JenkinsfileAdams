@@ -1,4 +1,4 @@
-node
+node("Wallmart Node1")
 {
 
 def mavenHome = tool name: "Maven3.8.1"
